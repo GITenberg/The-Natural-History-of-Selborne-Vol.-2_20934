@@ -1,0 +1,37 @@
+_repo: The-Natural-History-of-Selborne-Vol.-2_20934
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Gilbert
+    birthdate: 1720
+    deathdate: 1793
+    gutenberg_agent_id: '625'
+    url: http://www.gutenberg.org/2009/agents/625
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_White
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcc 'QH'
+- !lcsh 'Selborne (England) -- Description and travel -- Early works to 1800'
+- !lcsh 'Selborne (England) -- Antiquities -- Early works to 1800'
+- !lcsh 'Natural history -- England -- Selborne -- Early works to 1800'
+title: The Natural History of Selborne, Vol. 2
+url: http://www.gutenberg.org/ebooks/20934
