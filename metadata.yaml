@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20934#The-Natural-History-of-Selborne-Vol.-2
 gutenberg_issued: '2007-03-29'
 gutenberg_type: Text
 identifiers:
